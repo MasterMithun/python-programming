@@ -9,10 +9,4 @@ try:
 except:        
     print("invalid entry")
     
-b=input("enter the input:")
-if (int(b)>0):
-    print("the given is positive")
-elif (int(b)==0):
-    print("the given is zero")
-else:
-    print("the given is negative")
+
