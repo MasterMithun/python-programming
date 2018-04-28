@@ -1,6 +1,7 @@
-a=int(input("enter the value" ))
-b=int(input("enter the value"))
-for i in range(a+1,b):
+N=int(input("enter the value" ))
+Q=int(input("enter the value"))
+print("OUTPUT")
+for i in range(N+1,Q):
   if(i%2!=0):
     print (i)
     
